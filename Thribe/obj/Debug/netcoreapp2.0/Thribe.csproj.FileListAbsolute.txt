@@ -1,0 +1,11 @@
+C:\Users\LP2User\source\repos\Thribe\Thribe\bin\Debug\netcoreapp2.0\Thribe.deps.json
+C:\Users\LP2User\source\repos\Thribe\Thribe\bin\Debug\netcoreapp2.0\Thribe.runtimeconfig.json
+C:\Users\LP2User\source\repos\Thribe\Thribe\bin\Debug\netcoreapp2.0\Thribe.runtimeconfig.dev.json
+C:\Users\LP2User\source\repos\Thribe\Thribe\bin\Debug\netcoreapp2.0\Thribe.dll
+C:\Users\LP2User\source\repos\Thribe\Thribe\obj\Debug\netcoreapp2.0\Thribe.csprojResolveAssemblyReference.cache
+C:\Users\LP2User\source\repos\Thribe\Thribe\obj\Debug\netcoreapp2.0\Thribe.csproj.CoreCompileInputs.cache
+C:\Users\LP2User\source\repos\Thribe\Thribe\obj\Debug\netcoreapp2.0\Thribe.AssemblyInfoInputs.cache
+C:\Users\LP2User\source\repos\Thribe\Thribe\obj\Debug\netcoreapp2.0\Thribe.AssemblyInfo.cs
+C:\Users\LP2User\source\repos\Thribe\Thribe\bin\Debug\netcoreapp2.0\Thribe.pdb
+C:\Users\LP2User\source\repos\Thribe\Thribe\obj\Debug\netcoreapp2.0\Thribe.dll
+C:\Users\LP2User\source\repos\Thribe\Thribe\obj\Debug\netcoreapp2.0\Thribe.pdb
